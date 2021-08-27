@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="C:/Users/SrIski8/Desktop/Sv/plugins/BarAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SrIski8/Desktop/Sv/plugins/iConomy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SrIski8/Desktop/Sv/plugins/iDisguise_v2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SrIski8/Desktop/Sv/plugins/ProtocolLib-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SrIski8/Desktop/Sv/plugins/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SrIski8/Desktop/Sv/plugins/worldedit-5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SrIski8/Desktop/Sv/plugins/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SrIski8/Desktop/Sv/craftbukkit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SrIski8/Desktop/Sv/plugins/Nodus-API.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SrIski8/Desktop/Sv/plugins/nShop.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

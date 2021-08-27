@@ -1,0 +1,48 @@
+#       ----------- xNodus ---------------		  
+#           Configuracoes do Plugin 				  		 
+#      ----------------------------------
+prefix: '&fNodus §3§l>> '
+MensagemPegarKits: '&3&lVoce esta utilizando o kit: &7&l'
+Anuncio: Bota la na config.yml
+Motd: '&a NodusPvP &f&l>> &7Vein treinar monstru '
+Motd2: '&a NodusPvP &f&l>> &7WomboCombo!'
+Sem_PermissÃƒÂ£o_Kit: '&4SEM PERMISSAO PARA ESTE KIT'
+Um_Kit_Por_Vida: '&4Um kit por vida!'
+NomeServer: xNodusPvP
+comandoinvalido: &4Comando invalido
+MensagemJoin: '&cBem vindo ao xNodusPvP!'
+Yt2: '&51 k de subs, 1 video divulgando o servidor, bom feed'
+Yt1: '&5700 subs, 1 video divulgando o servidor, bom feed'
+nomedasopa: '&6Sopa!'
+nomedopote: '&5Potinho'
+barramensagemjoin: '&aBem-Vindo'
+MensagemTeleportArena1: '&bO sistema determinou em te teleportar para o spawn 1'
+MensagemTeleportArena2: '&bO sistema determinou em te teleportar para o spawn 2'
+MensagemTeleportArena3: '&bO sistema determinou em te teleportar para o spawn 3'
+MensagemTeleportArena4: '&bO sistema determinou em te teleportar para o spawn 4'
+MensagemTeleportArena5: '&bO sistema determinou em te teleportar para o spawn 5'
+EntrarMensagem: '&3> &7%p'
+SairMensagem: '&3< &7%p'
+Site: '&bSEUSITE.COM'
+linha1: '&f==========='
+linha2: '&6Nodus'
+linha3: '&7Sopas'
+linha4: '&f==========='
+recraftlinha1: '&f===========' 
+recraftlinha2: '&7Recraft'
+recraftlinha3: '&6Nodus'
+recraftlinha4: '&f==========='
+MensagemMorrerSemSerMorto: '&cMais pra quem diabos voce morreu?'
+stats:
+  kills-cooldowns: 1
+  kill-double: true
+  kill-triple: true
+  kill-quadruple: true
+  kill-quintuple: true
+messages:
+  kill-2: '&a{PLAYER} &7pegou um killstreak de &a2&7!' 
+  kill-3: '&a{PLAYER} &7pegou um killstreak de &a3&7!'
+  kill-4: '&a{PLAYER} &7pegou um killstreak de &a4&7!'
+  kill-5: '&a{PLAYER} &7pegou um killstreak de &a5&7!'
+  kill-6: '&a{PLAYER} &7pegou um killstreak de &a6&7!'
+  killstreak-5: '&6{PLAYER} &7pegou um killstreak de &6{NUM}&7!'
