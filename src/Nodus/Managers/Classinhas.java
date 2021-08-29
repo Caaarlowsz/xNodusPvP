@@ -1,9 +1,9 @@
 package Nodus.Managers;
 
-import org.bukkit.event.*;
-import Nodus.Main.*;
+import org.bukkit.event.Listener;
 
-public class Classinhas implements Listener
-{
-    Main plugin;
+import Nodus.Main.Main;
+
+public class Classinhas implements Listener {
+	Main plugin;
 }

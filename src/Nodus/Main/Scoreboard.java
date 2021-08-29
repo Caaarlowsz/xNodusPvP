@@ -1,5 +1,4 @@
 package Nodus.Main;
 
-public class Scoreboard
-{
+public class Scoreboard {
 }

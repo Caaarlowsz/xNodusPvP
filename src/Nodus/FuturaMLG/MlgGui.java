@@ -1,13 +1,13 @@
 package Nodus.FuturaMLG;
 
-import org.bukkit.event.*;
-import Nodus.Main.*;
+import org.bukkit.event.Listener;
 
-public class MlgGui implements Listener
-{
-    public static Main plugin;
-    
-    public MlgGui(final Main main) {
-        MlgGui.plugin = main;
-    }
+import Nodus.Main.Main;
+
+public class MlgGui implements Listener {
+	public static Main plugin;
+
+	public MlgGui(final Main main) {
+		MlgGui.plugin = main;
+	}
 }
